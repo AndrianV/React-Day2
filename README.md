@@ -1,5 +1,5 @@
 # React-Day2
-There are 2 separate React projects are included:
+There 2 separate React projects are included:
 
 - `day2` - Here can see everything from the document up until the 5th Exercise(it is included). Reflection to the questions is uploaded in a separate copy of the Day2-Exercise document, in [`the PDF document`](https://github.com/AndrianV/React-Day2/blob/master/Day2_Cos_answers.pdf). (answers are highlighted in blue)
 
